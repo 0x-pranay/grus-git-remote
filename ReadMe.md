@@ -38,3 +38,12 @@
 ### Pull - Fetches and then merge changes in the branch
 `git pull origin master`
 
+
+### Clone
+- mkdir reponame
+- cd into that
+- git init
+- git remote add origin <git-url>
+- git pull
+
+
