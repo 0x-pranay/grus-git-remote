@@ -4,7 +4,7 @@
 
 ### make some changes
 
-
+ `create a new file or change existing file`
 
 ### add those files to staging
   `git add <fileName>`
@@ -30,4 +30,11 @@
 ### Switch to a new branch
  `git checkout <branch_name>`
 
+
+### Fetch - dowload latest changes in your local machine
+`git fetch origin`
+
+
+### Pull - Fetches and then merge changes in the branch
+`git pull origin master`
 
