@@ -1,5 +1,5 @@
  ### initialize git
-git init
+`git init`
 
 
 ### make some changes
@@ -7,27 +7,27 @@ git init
 
 
 ### add those files to staging
-  git add <fileName>
+  `git add <fileName>`
 
 
 ### commit those changes
- git commit -m 'Commit message'
+ `git commit -m 'Commit message'`
 
 
 ### create a branch
-  git branch <branch_name>
+  `git branch <branch_name>`
 
 
 ### list all the branches
 
-  git branch
+  `git branch`
 
    or 
 
-  git branch -a
+  `git branch -a`
 
 
 ### Switch to a new branch
- git checkout <branch_name>
+ `git checkout <branch_name>`
 
 
