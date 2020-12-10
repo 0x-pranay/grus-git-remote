@@ -46,4 +46,8 @@
 - git remote add origin <git-url>
 - git pull
 
+### Hard Reset
+
+`git reset --hard HEAD^` -> This will remove last one commit and delete all the changes. 
+ Use it with care. 
 
