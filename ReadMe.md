@@ -38,3 +38,8 @@
 ### Pull - Fetches and then merge changes in the branch
 `git pull origin master`
 
+
+
+### Soft reset
+
+`git reset HEAD^`  -> remove last one commit and store the changes in staging
