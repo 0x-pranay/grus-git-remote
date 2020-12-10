@@ -51,3 +51,11 @@
 `git reset --hard HEAD^` -> This will remove last one commit and delete all the changes. 
  Use it with care. 
 
+### Soft reset
+
+`git reset HEAD^`  -> remove last one commit and store the changes in staging
+
+
+### Resolve conflict
+ up to you.
+
